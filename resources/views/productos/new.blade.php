@@ -5,7 +5,6 @@
     <h1 class="blue-text text-darken-4">Nuevo producto:</h1>
 </div>
 
-
 <div class="row">
     <form action="" class="col s8" method="POST">
         <div class="row">
@@ -13,14 +12,12 @@
                 <input type="text" id="nombre" name="nombre" placeholder="Nombre del producto">
                 <label for="nombre">Nombre del producto</label>
             </div>
-
             <div class="row">
                 <div class="col s8 input-field">
 
                 <textarea name="desc" id="desc" class="materialize-textarea"></textarea>
                 <label for="desc">Descripcion</label>
             </div>
-
             <div class="row">
                 <div class="col s8 input-field">
                     <input type="text"
